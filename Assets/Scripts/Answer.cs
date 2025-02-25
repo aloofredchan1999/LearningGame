@@ -129,7 +129,7 @@ public class Answer : MonoBehaviour
     }
 
 
-    public void NextTM()
+    /*public void NextTM()
     {
         if (tmIndex < 5)
         {
@@ -163,7 +163,7 @@ public class Answer : MonoBehaviour
             gameControl.SendMessage("GameWin");
            
         }
-    }
+    } */
 
     public void OptionTM()
     {
